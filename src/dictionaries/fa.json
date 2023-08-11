@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "خانه",
+    "about": "درباره"
+  },
+  "page": {
+    "home": {
+      "title": "خوش آمدید",
+      "description": "توضیح ندارد"
+    },
+    "about": {
+      "title": "Über uns",
+      "description": "Dies ist die About-Seite"
+    }
+  }
+}
